@@ -1,0 +1,17 @@
+app:
+    host: 127.0.0.1
+    port: 8080
+    domain: 127.0.0.1
+    uploaddir: "./uploads"
+mysql:
+    host: 127.0.0.1
+    port: 3306
+    database: "test"
+    username: "root"
+    password: "Root123."
+    debug: false
+redis:
+    host: 192.168.224.160
+    port: 6379
+    password: ""
+    db: 0
